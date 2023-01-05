@@ -1,0 +1,21 @@
+.hero-section {
+    padding-top: 118px;
+    padding-bottom: 118px;
+    background-image: url(../../images/winter-picture.jpg);
+    background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding-left: 50px;
+}
+
+.hero-section__title {
+font-family: 'Montserrat';
+
+font-weight: 800;
+font-size: 50px;
+line-height: 64px;
+display: block;
+margin-left: auto;
+
+color: black;
+}

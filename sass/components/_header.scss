@@ -1,0 +1,48 @@
+.header {
+    
+    background-color: rgba(128, 128, 128, 0.2);
+    align-items: center;
+
+}
+
+.main-title {
+    font-family: Playfair Display ;
+    font-weight: 800;
+    font-size: 36px;
+   line-height: 41px;
+   color: #FFAE1A;
+   margin-right: 270px;
+   padding-left: 40px;
+}
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.header__list-pages {
+    display: flex;
+}
+
+.header-list__link {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: calc(28/21);
+    color: black;
+}
+
+.header-list__item {
+    margin-right: 40px;
+padding: 50px 0px;
+    
+}
+.phone-link {
+    margin-left: 80px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: calc(28/21);
+    color: grey;
+}
