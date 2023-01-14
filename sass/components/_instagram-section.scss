@@ -1,0 +1,54 @@
+.instagram-section {
+    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    
+    // background: linear-gradient(to bottom right,#9fa5d5, #e8f5c8 );
+    background-color:#ddddda ;
+
+}
+
+
+.instagram__main-title {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+
+
+line-height: 53px;
+
+margin-bottom: 50px;
+
+
+
+}
+
+.instagram-list {
+  display: flex;
+  justify-content: center;
+}
+
+.instagram-list__item {
+    margin-right: 150px;
+   
+  
+}
+    
+
+
+
+.instagram-text {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 53px;
+color: white;
+border:solid white 0.1 ;
+border-radius: 7px;
+padding: 7px;
+background-color: #9fa5d5;
+
+
+}

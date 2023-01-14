@@ -15,6 +15,23 @@ ul {
   list-style: none;
 }
 
+.benefits-description {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #999999;
+}
+
+.benefits-title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+}
+
 .header {
   background-color: rgba(128, 128, 128, 0.2);
   align-items: center;
@@ -71,6 +88,7 @@ ul {
   background-position: center;
   background-size: cover;
   padding-left: 50px;
+  width: 100%;
 }
 
 .hero-section__title {
@@ -81,4 +99,75 @@ ul {
   display: block;
   margin-left: auto;
   color: black;
+}
+
+.hero-box {
+  width: 700px;
+  background-color: rgba(169, 169, 169, 0.6);
+  border-radius: 10px;
+}
+
+.benefits-section {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.benfits__list {
+  display: flex;
+  justify-content: center;
+}
+
+.benefits-list__item {
+  width: 350px;
+  margin-right: 30px;
+}
+
+.benefits-list__item:last-child {
+  margin-right: 0;
+}
+
+.benefits-photo {
+  width: 100%;
+}
+
+.benefits-title {
+  color: black;
+}
+
+.instagram-section {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  padding-left: 50px;
+  background-color: #ddddda;
+}
+
+.instagram__main-title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  margin-bottom: 50px;
+}
+
+.instagram-list {
+  display: flex;
+  justify-content: center;
+}
+
+.instagram-list__item {
+  margin-right: 150px;
+}
+
+.instagram-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  color: white;
+  border: solid white 0.1;
+  border-radius: 7px;
+  padding: 7px;
+  background-color: #9fa5d5;
 }/*# sourceMappingURL=main.css.map */

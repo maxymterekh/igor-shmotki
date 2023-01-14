@@ -6,16 +6,29 @@
         background-position: center;
         background-size: cover;
         padding-left: 50px;
+        width: 100%;
 }
 
 .hero-section__title {
 font-family: 'Montserrat';
+
 
 font-weight: 800;
 font-size: 50px;
 line-height: 64px;
 display: block;
 margin-left: auto;
+// text-shadow: 0.6px 0 0.6px grey, 
+// 0 0.6px 0.6px grey, 
+// -0.6px 0 0.6px grey, 
+// 0 -0.6px 0.6px grey;
 
 color: black;
+}
+
+.hero-box {
+    width: 700px;
+    background-color: rgb(169, 169, 169, 0.6);
+    border-radius: 10px;
+    
 }
